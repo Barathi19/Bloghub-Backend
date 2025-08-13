@@ -83,7 +83,7 @@ DELETE /api/blogs/:id
 Authorization: Bearer jwt_token
 Params: Blog ObjectId
 
-Blog Routes (/api/users)
+User Routes (/api/users)
 
 | Method   | Endpoint       | Description         | Auth Required |
 | ------   | -----------    | --------------------| ------------- |
